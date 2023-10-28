@@ -69,13 +69,22 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
+1. data.head()
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/0456fe4e-2428-4128-894c-186244332325)
+2. data.info()
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/411218a6-b197-498b-8683-198e1e1fea8f)
+3. isnull() and sum()
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/62935a83-d39c-45d4-af89-88b45efdb765)
+4. data value counts()
+5. Name
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/4c559877-9dfe-4d77-92c4-d8ffea50cc3e)
+6. data.head() for salary
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/74cc2643-19bc-4b7b-9db0-b5cec66862b7)
+7. x.head()
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/b5879de7-8745-4434-8b9c-402ebb0fba75)
+8. Accuracy value
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/98b8c6f2-aa0d-459a-894a-42bec033b4f7)
+9. Data prediction
 ![image](https://github.com/NamithaS2710/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/133190822/cd5d3e17-662f-459e-aa8b-bc7960f49989)
 
 ## Result:
